@@ -1,0 +1,146 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=7960 outsize=2549 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=68835 outsize=4665 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1909 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=45671 outsize=4173 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=45671 outsize=12553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7959 outsize=1709 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2985 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=3205 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1325 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1313 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2085 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2033 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=785 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1029 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=801 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=837 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=885 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1521 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1405 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1289 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1309 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

@@ -1,0 +1,150 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=7960 outsize=1521 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=68835 outsize=7649 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=45671 outsize=6253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1669 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1633 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=2085 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=49356 outsize=1345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4103 outsize=1753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1013 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=705 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1533 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1249 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1393 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
