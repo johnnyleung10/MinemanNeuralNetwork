@@ -9,7 +9,7 @@ public class GroundSensor : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        m_root = this.transform.root.GetComponent<PlayerController>();
+        m_root = this.transform.parent.GetComponent<PlayerController>();
     }
 
  

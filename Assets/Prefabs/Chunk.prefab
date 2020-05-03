@@ -43,9 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54e2a64d3b2ec9d45a1e7d82538b1959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 25
-  heightMultiplier: 10
-  heightAddition: 25
+  width: 10
+  heightMultiplier: 25
+  heightAddition: 0
   DirtTile: {fileID: 6141579820874812285, guid: 9a4aa4f948badb54d81ef8a8d90e4f4e,
     type: 3}
   GrassTile: {fileID: 1593992603994887943, guid: 17926af562ddbd443bc4b330b8ff910c,
@@ -56,4 +56,4 @@ MonoBehaviour:
   seed: 0
   tileDiamond: {fileID: 8104240350989117311, guid: f005e4c752d6c7b49bc7ebb471a7eab0,
     type: 3}
-  chanceDiamond: 2
+  chanceDiamond: 5
